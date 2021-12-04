@@ -1,0 +1,9 @@
+VIV 1DOF Ur3
+real time step set to 0.01  
+iterations 300 in each rtstep(as rdt reduced)
+solved for 3rd order
+previous unsteady solution of stationary Re150 at time 149.1 sec is initialized at rtstep=0
+Variables from VIV.c are made global
+RBF implemented
+restarted
+different definitions.h and readcgnsdata.c used for data structure and RBF
